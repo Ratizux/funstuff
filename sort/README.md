@@ -1,6 +1,6 @@
 # Sort
 
-Demonstration of several sorting algorithms. Helps you to gain a better understanding of them.
+Homework of Data Structure during the first semester of sophomore year. Demonstration of several sorting algorithms. Helps you to gain a better understanding of them.
 
 Compile the program with `make`.
 

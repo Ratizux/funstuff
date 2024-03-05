@@ -1,6 +1,6 @@
 # ncsh
 
-Homework of C programming for the spring semester during my freshman year.
+Homework of C programming for the first semester during my freshman year.
 
 Compile with `gcc -o main main.c -lncurses`. You should install development dependencies of ncurses first
 

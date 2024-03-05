@@ -1,6 +1,6 @@
 # CRUD
 
-Homework for Object-Oriented Programming during autumn semester of freshman year. Simulates a goods management system for a store.
+Homework for Object-Oriented Programming during the second semester of freshman year. Simulates a goods management system for a store.
 
 Written in Qt Widgets in pure C++. No UI Designer file used.
 
